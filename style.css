@@ -7,6 +7,10 @@
   font-family: "Lato", sans-serif;
 }
 
+body{
+  background-color: #e7e7e7;
+}
+
 *::selection {
   background: #000;
   color: #fff;
@@ -246,3 +250,4 @@
 .btn-div{
   margin: 5vw 0;
 }
+
