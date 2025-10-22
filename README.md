@@ -27,7 +27,7 @@ JavaScript
 - Building **aesthetic layouts** without frameworks
 
 ## 📸 Preview
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac4e22e3-b0df-4333-affc-f95badf1ed06" />
+<img width="1898" height="911" alt="image" src="https://github.com/user-attachments/assets/da976aae-16eb-4170-986d-f828d5d22d2f" />
 
 
 ## 🌍 Live Preview
