@@ -41,7 +41,7 @@ You can check out the live version of this project here 👇
 1. Clone the repository
    git clone https://github.com/tanmeetsingh777/Cuberto-Clone.git
    
-3. Naviagte into the project folder
+2. Naviagte into the project folder
    cd Cuberto-Clone
    
 3.Open index.html in your browser
