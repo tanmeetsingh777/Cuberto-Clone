@@ -44,8 +44,8 @@ You can check out the live version of this project here 👇
 2. Naviagte into the project folder
    cd Cuberto-Clone
    
-3.Open index.html in your browser
-  start index.html
+3. Open index.html in your browser
+   start index.html
 
 
 🔧 Future Improvements
