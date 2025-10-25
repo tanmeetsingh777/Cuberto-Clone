@@ -17,6 +17,7 @@ This project recreates the sleek animations, layout, and smooth interactions of 
 HTML5
 CSS3
 JavaScript
+Shery.js
 
 
 ## 🧠 Learning Highlights
